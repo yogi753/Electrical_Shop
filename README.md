@@ -2,7 +2,7 @@
 
 This project is used for stock maintainance and billing in Electrical Store
 
-Install these packages
+**Install these necessary packages**
 
 **1.npm install express**
 
@@ -24,7 +24,7 @@ It is a templating engine that allows you to embed dynamic content in your HTML 
 
 In Node.js application, the inclusion of the moment library is likely intended to facilitate the generation of daily sales reports. You can filter and retrieve sales data based on the current date, allowing for the seamless creation of daily reports and enhancing the precision of date-related operations within your sales reporting functionality.
 
-Run the server
+**Run the server**
 
 At last give this command to launch the project in browser **node app**
 
