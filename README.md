@@ -1,4 +1,4 @@
-# Electrical_Store
+# Electrical_Shop
 
 This project is used for stock maintainance and billing in Electrical Store
 
